@@ -1,0 +1,10 @@
+﻿  Game.cpp
+D:\University Stuff\CMP 102\CMP102_AaronCrawford_1900400\Assignment\Redraft Assignment\Game.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Player.cpp
+  Source.cpp
+  Throw.cpp
+  Generating Code...
+D:\University Stuff\CMP 102\CMP102_AaronCrawford_1900400\Assignment\Redraft Assignment\Throw.cpp(25): warning C4715: 'Throw::throw_single': not all control paths return a value
+D:\University Stuff\CMP 102\CMP102_AaronCrawford_1900400\Assignment\Redraft Assignment\Game.cpp(263): warning C4715: 'Game::play_set': not all control paths return a value
+D:\University Stuff\CMP 102\CMP102_AaronCrawford_1900400\Assignment\Redraft Assignment\Game.cpp(225): warning C4715: 'Game::play_game': not all control paths return a value
+  Redraft Assignment.vcxproj -> D:\University Stuff\CMP 102\CMP102_AaronCrawford_1900400\Assignment\Debug\Redraft Assignment.exe
